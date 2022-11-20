@@ -39,7 +39,7 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/xueting-zhang-940527145/" target="_blank"><img alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"></a>
-    <a href="https://www.instagram.com/xuetingzhang/" target="_blank"><img alt="Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
-    <a href="mailto:xueting9903@gmail.com" target="_blank"><img alt="Gmail" width="28px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"></a>
+    <a href="https://www.linkedin.com/in/xueting-zhang-940527145/" target="_blank"><img alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin--v1.png"></a>
+    <a href="mailto:xueting9903@gmail.com" target="_blank"><img alt="Gmail" width="32px" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>
+    <a href="https://www.instagram.com/xuetingzhang/" target="_blank"><img alt="Instagram" width="32px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 </p>
