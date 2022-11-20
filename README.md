@@ -15,7 +15,7 @@
 * 🌱 Currently learning software 💻 development and UX design
 * 🌟 Frontend development, HCI design, Fullstack development...
 * 💞️ I’m looking to collaborate on something fun!
-* 📄 Here is my Resume: <a href="https://followb1ind1y.github.io/Zeren_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Xueting's Resume-blue"></a>
+* 📄 Here is my Resume: <a href="https://github.com/Nemocxy/Nemocxy/blob/095b4741d2a8b3ad15fb9f476c1d532e52fc3780/XuetingZhang_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Xueting's Resume-blue"></a>
 * 📧 Reach me at: <a href="mailto:xueting9903@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-xueting9903@gmail.com-c14438?logo=Gmail&logoColor=white"></a>
 
 <p align="center">
